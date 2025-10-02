@@ -36,8 +36,14 @@
 ### ⚙️ **Configuración Flexible**
 - Nombre personalizable del proyecto/evento
 - Fecha y hora específicas
-- Logo corporativo personalizado (opcional)
-- Imagen de fondo personalizable
+- **Logo corporativo personalizado** (opcional)
+  - ✨ **Función avanzada**: Copia y pega URLs de imágenes directamente desde Google Images
+  - Soporta URLs directas de cualquier fuente web
+  - Formatos: PNG, JPG, SVG, WebP
+- **Imagen de fondo personalizable**
+  - ✨ **Función avanzada**: Copia y pega URLs de imágenes directamente desde Google Images
+  - Personalización instantánea sin necesidad de subir archivos
+  - Efectos de opacidad ajustables
 - Persistencia automática de configuración (localStorage)
 
 ### 🔄 **Gestión de Eventos**
@@ -79,23 +85,22 @@ Control de tiempo para:
 
 ---
 
-## 🚀 Funcionalidades por Versión
+## 🚀 Versión Disponible
 
-### **Timer.php - Versión Classic**
-```
-✅ Diseño neumórfico suave
-✅ Bloques de tiempo cuadrados
-✅ Transiciones elegantes
-✅ Ideal para: Ambientes corporativos tradicionales
-```
-
-### **Timer_v2.php - Versión Retro**
+### **Timer Retro - Versión Profesional**
 ```
 ✅ Efecto flip retro (split-flap display)
 ✅ Animaciones mecánicas realistas
 ✅ Estética vintage industrial
-✅ Ideal para: Espacios creativos, startups, tech companies
+✅ Diseño inmersivo de alto impacto visual
+✅ Ideal para: Espacios creativos, startups, tech companies, salas de presentación
 ```
+
+**💻 Recomendación de uso:**
+- ✅ **Pantallas grandes** (monitores, proyectores, TVs)
+- ✅ **Computadoras de escritorio** para máxima experiencia visual
+- ✅ **Resolución mínima recomendada**: 1920x1080 (Full HD)
+- ⚠️ En dispositivos móviles la experiencia puede ser limitada debido al tamaño de pantalla
 
 ---
 
@@ -134,12 +139,13 @@ Cuando configuras un evento para dentro de **2 horas**:
 ### ✅ **Sin Instalación**
 - Acceso directo vía navegador web
 - Sin necesidad de descargas o plugins
-- Compatible con todos los dispositivos
+- Compatible con todos los dispositivos de escritorio y pantallas grandes
 
 ### ✅ **Cero Configuración Técnica**
 - Interfaz intuitiva
 - Configuración en 3 clicks
 - Sin conocimientos técnicos requeridos
+- ✨ **Personalización instantánea**: Copia y pega URLs de imágenes desde Google
 
 ### ✅ **Persistencia Automática**
 - Se guarda automáticamente
@@ -163,14 +169,15 @@ Cuando configuras un evento para dentro de **2 horas**:
 - ✅ Opera (v75+)
 
 ### **Dispositivos Soportados**
-- 💻 Desktop (Windows, macOS, Linux)
-- 📱 Tablets (iPad, Android)
-- 📺 Smart TVs con navegador
-- 🖥️ Pantallas de salas de reuniones
+- 💻 **Desktop (Recomendado)** - Windows, macOS, Linux
+- 📺 **Smart TVs con navegador** - Experiencia óptima en pantalla grande
+- 🖥️ **Pantallas de salas de reuniones** - Uso principal y recomendado
+- 📱 Tablets (iPad, Android) - Funcional pero limitado
+- ⚠️ Móviles - No recomendado para la mejor experiencia visual
 
 ### **Resoluciones Óptimas**
 - Mínimo: 1280x720 (HD)
-- Recomendado: 1920x1080 (Full HD)
+- **Recomendado: 1920x1080 (Full HD)** ⭐
 - Ideal: 3840x2160 (4K)
 
 ---
@@ -184,15 +191,27 @@ Cuando configuras un evento para dentro de **2 horas**:
    - Formato libre
    - Ejemplos: "Entrega Q4", "Lanzamiento Producto X"
 
-2. **Logo Corporativo**
-   - URL de imagen personalizada
-   - Formatos: PNG, JPG, SVG
+2. **Logo Corporativo** ✨
+   - **Función avanzada**: Copia y pega la URL de la imagen directamente desde Google Images
+   - También soporta URLs de cualquier sitio web
+   - Formatos compatibles: PNG, JPG, SVG, WebP
    - Tamaño recomendado: 200x200px
+   - **Ejemplo de uso:**
+     1. Busca tu logo en Google Images
+     2. Click derecho en la imagen → "Copiar dirección de imagen"
+     3. Pega la URL en el campo "Logo URL"
+     4. ¡Listo! Tu logo aparecerá instantáneamente
 
-3. **Fondo Personalizado**
-   - Imagen de fondo corporativa
-   - URL personalizable
+3. **Fondo Personalizado** ✨
+   - **Función avanzada**: Copia y pega la URL de la imagen directamente desde Google Images
+   - Imagen de fondo corporativa o temática
+   - URL personalizable desde cualquier fuente web
    - Efectos de opacidad ajustables
+   - **Ejemplo de uso:**
+     1. Busca una imagen de fondo en Google Images
+     2. Click derecho → "Copiar dirección de imagen"
+     3. Pega la URL en el campo "Background URL"
+     4. Ajusta la opacidad según tu preferencia
 
 4. **Fecha y Hora Objetivo**
    - Selector de fecha intuitivo
@@ -284,9 +303,9 @@ Cuando configuras un evento para dentro de **2 horas**:
 
 <div align="center">
 
-### ⭐ **Desarrollado con ❤️ por SKYN3T.cl** ⭐
+### ⭐ **Desarrollado por el equipo SKYN3T.cl** ⭐
 
-**[Pruébalo Ahora](https://skyn3t.cl/timer)** | **[Visita SKYN3T](https://skyn3t.cl)**
+**[Pruébalo Ahora](https://skyn3t.cl/timer)** | **[Visita SKYN3T.cl](https://skyn3t.cl)**
 
 ---
 
